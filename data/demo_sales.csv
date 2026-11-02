@@ -1,0 +1,505 @@
+﻿date,product,category,units_sold,unit_price,revenue,region,marketing_spend
+2023-01-02,Tablet,Electronics,26,18525.51,481663.26,East,3277.35
+2023-01-10,Bookshelf,Furniture,13,6566.07,85358.91,Central,2588.63
+2023-01-14,Office Chair,Furniture,20,7432.75,148655.0,West,7677.61
+2023-01-19,Laptop,Electronics,30,56790.3,1703709.0,South,7863.2
+2023-01-18,Wireless Mouse,Accessories,6,853.96,5123.76,South,3815.5
+2023-01-19,Wireless Mouse,Accessories,28,924.62,25889.36,East,4022.41
+2023-01-19,Office Chair,Furniture,38,8073.28,306784.64,East,2362.73
+2023-01-19,Bookshelf,Furniture,15,6680.47,100207.05,North,3622.24
+2023-01-05,Smartphone,Electronics,21,24591.44,516420.24,South,8155.78
+2023-01-20,Keyboard,Accessories,20,1717.88,34357.6,East,7096.7
+2023-01-12,Keyboard,Accessories,13,1731.64,22511.32,South,2459.07
+2023-01-15,Laptop,Electronics,28,55170.83,1544783.24,South,5906.44
+2023-01-09,Tablet,Electronics,33,18387.33,606781.89,West,6383.2
+2023-01-15,Keyboard,Accessories,19,1757.05,33383.95,South,1118.24
+2023-02-22,Office Chair,Furniture,29,7765.34,225194.86,East,4546.37
+2023-02-01,Tablet,Electronics,19,17778.89,337798.91,West,1103.01
+2023-02-06,Smartphone,Electronics,6,24955.13,149730.78,North,5462.75
+2023-02-26,Tablet,Electronics,28,17540.91,491145.48,North,570.16
+2023-02-20,Desk Lamp,Home,9,1366.92,12302.28,Central,4865.34
+2023-02-09,Monitor,Electronics,5,13996.49,69982.45,Central,3039.49
+2023-02-25,Laptop,Electronics,17,53071.18,902210.06,West,4689.79
+2023-02-05,Bookshelf,Furniture,36,6880.52,247698.72,Central,6927.85
+2023-02-23,Bookshelf,Furniture,17,6609.96,112369.32,Central,2783.74
+2023-02-19,Bookshelf,Furniture,1,6444.81,6444.81,East,7985.32
+2023-02-05,Headphones,Accessories,36,2098.56,75548.16,Central,7448.14
+2023-02-23,Office Chair,Furniture,24,7768.97,186455.28,East,5989.35
+2023-02-12,Monitor,Electronics,27,14207.11,383591.97,South,5587.41
+2023-02-17,Tablet,Electronics,35,18388.45,643595.75,Central,826.07
+2023-03-03,Monitor,Electronics,18,14662.64,263927.52,West,859.58
+2023-03-09,Office Chair,Furniture,28,7414.68,207611.04,North,3634.83
+2023-03-06,Smartphone,Electronics,8,22867.8,182942.4,Central,4615.34
+2023-03-19,Laptop,Electronics,23,55569.65,1278101.95,North,5405.29
+2023-03-18,Headphones,Accessories,19,2141.17,40682.23,North,2498.35
+2023-03-19,Wireless Mouse,Accessories,6,937.14,5622.84,North,1077.5
+2023-03-10,Keyboard,Accessories,11,1768.43,19452.73,South,5914.65
+2023-03-05,Office Chair,Furniture,18,7656.25,137812.5,Central,2268.34
+2023-03-10,Keyboard,Accessories,35,1786.65,62532.75,North,5417.8
+2023-03-05,Keyboard,Accessories,27,1775.5,47938.5,West,4411.08
+2023-03-02,Keyboard,Accessories,19,1740.69,33073.11,West,4954.1
+2023-03-26,Wireless Mouse,Accessories,21,889.17,18672.57,North,6005.89
+2023-03-05,Headphones,Accessories,8,2194.05,17552.4,West,6553.24
+2023-03-19,Keyboard,Accessories,24,1705.91,40941.84,South,6408.16
+2023-04-09,Wireless Mouse,Accessories,24,902.22,21653.28,West,8234.46
+2023-04-26,Desk Lamp,Home,30,1225.39,36761.7,South,1882.75
+2023-04-09,Laptop,Electronics,2,58909.65,117819.3,West,2492.2
+2023-04-25,Smartphone,Electronics,6,22763.26,136579.56,West,708.02
+2023-04-02,Wireless Mouse,Accessories,14,903.69,12651.66,South,8248.07
+2023-04-27,Wireless Mouse,Accessories,5,887.15,4435.75,East,2983.0
+2023-04-09,Monitor,Electronics,29,14689.65,425999.85,South,3402.64
+2023-04-04,Smartphone,Electronics,23,24402.57,561259.11,East,3316.13
+2023-04-21,Backpack,Lifestyle,13,2134.84,27752.92,Central,2170.04
+2023-04-06,Coffee Maker,Home,27,4084.85,110290.95,Central,3590.45
+2023-04-07,Laptop,Electronics,8,52808.76,422470.08,East,2319.46
+2023-04-06,Coffee Maker,Home,21,4041.37,84868.77,East,1860.33
+2023-04-03,Bookshelf,Furniture,26,6189.96,160938.96,East,4738.27
+2023-04-14,Bookshelf,Furniture,19,6271.52,119158.88,South,8395.14
+2023-05-14,Bookshelf,Furniture,21,6516.79,136852.59,Central,8100.03
+2023-05-27,Laptop,Electronics,29,59127.86,1714707.94,West,7258.23
+2023-05-14,Backpack,Lifestyle,11,2149.47,23644.17,Central,1026.97
+2023-05-13,Tablet,Electronics,27,18500.87,499523.49,South,7394.67
+2023-05-21,Coffee Maker,Home,19,4210.28,79995.32,Central,2729.09
+2023-05-27,Keyboard,Accessories,14,1775.83,24861.62,Central,3023.19
+2023-05-05,Keyboard,Accessories,31,1807.85,56043.35,East,1691.05
+2023-05-25,Backpack,Lifestyle,15,2072.89,31093.35,North,2396.34
+2023-05-24,Wireless Mouse,Accessories,32,861.78,27576.96,East,3454.68
+2023-05-17,Wireless Mouse,Accessories,29,910.07,26392.03,East,836.09
+2023-05-01,Bookshelf,Furniture,34,6370.25,216588.5,East,1706.95
+2023-05-05,Office Chair,Furniture,21,8077.52,169627.92,West,2946.56
+2023-05-13,Keyboard,Accessories,22,1778.59,39128.98,East,5856.61
+2023-05-18,Headphones,Accessories,37,2265.38,83819.06,West,1831.4
+2023-06-01,Headphones,Accessories,26,2077.05,54003.3,West,8454.15
+2023-06-17,Monitor,Electronics,12,14891.87,178702.44,East,5614.49
+2023-06-13,Bookshelf,Furniture,16,6699.25,107188.0,South,6562.63
+2023-06-12,Coffee Maker,Home,31,4346.99,134756.69,North,2069.32
+2023-06-12,Smartphone,Electronics,32,23643.61,756595.52,West,1952.44
+2023-06-19,Monitor,Electronics,23,14503.04,333569.92,East,4196.05
+2023-06-21,Office Chair,Furniture,9,7410.13,66691.17,South,3076.03
+2023-06-17,Laptop,Electronics,24,53535.37,1284848.88,Central,7276.73
+2023-06-05,Monitor,Electronics,9,15282.41,137541.69,West,8101.79
+2023-06-11,Tablet,Electronics,20,17782.09,355641.8,Central,2452.4
+2023-06-27,Keyboard,Accessories,22,1856.98,40853.56,East,5156.39
+2023-06-09,Monitor,Electronics,20,14951.37,299027.4,Central,2983.86
+2023-06-14,Monitor,Electronics,41,14535.23,595944.43,North,7573.07
+2023-06-18,Smartphone,Electronics,42,22891.14,961427.88,East,6394.21
+2023-07-12,Office Chair,Furniture,25,8156.37,203909.25,West,5769.15
+2023-07-03,Bookshelf,Furniture,33,6394.45,211016.85,Central,3432.14
+2023-07-26,Laptop,Electronics,22,54579.31,1200744.82,North,4283.68
+2023-07-11,Headphones,Accessories,19,2199.71,41794.49,South,4626.61
+2023-07-12,Headphones,Accessories,32,2086.22,66759.04,North,4140.31
+2023-07-20,Backpack,Lifestyle,32,2011.67,64373.44,South,2603.48
+2023-07-14,Backpack,Lifestyle,13,2219.41,28852.33,Central,1818.14
+2023-07-04,Wireless Mouse,Accessories,34,882.77,30014.18,North,7091.0
+2023-07-05,Bookshelf,Furniture,29,6592.17,191172.93,East,7939.94
+2023-07-16,Bookshelf,Furniture,12,6342.76,76113.12,North,7437.86
+2023-07-15,Smartphone,Electronics,12,24754.69,297056.28,South,4793.45
+2023-07-20,Wireless Mouse,Accessories,28,936.43,26220.04,North,7283.63
+2023-07-25,Tablet,Electronics,33,19476.21,642714.93,Central,5943.12
+2023-07-17,Wireless Mouse,Accessories,20,854.6,17092.0,North,7972.7
+2023-08-18,Bookshelf,Furniture,14,6734.16,94278.24,North,7854.55
+2023-08-07,Headphones,Accessories,47,2243.77,105457.19,East,4815.41
+2023-08-26,Smartphone,Electronics,19,23844.58,453047.02,East,6101.82
+2023-08-20,Coffee Maker,Home,19,4062.07,77179.33,East,1367.36
+2023-08-16,Laptop,Electronics,26,56173.18,1460502.68,West,3375.55
+2023-08-15,Laptop,Electronics,44,54651.87,2404682.28,East,5255.06
+2023-08-15,Monitor,Electronics,27,15255.04,411886.08,South,6762.51
+2023-08-15,Headphones,Accessories,20,2199.31,43986.2,Central,4972.3
+2023-08-12,Monitor,Electronics,24,14923.35,358160.4,Central,4335.95
+2023-08-12,Keyboard,Accessories,30,1873.41,56202.3,North,5087.47
+2023-08-26,Wireless Mouse,Accessories,18,884.72,15924.96,South,5777.33
+2023-08-12,Laptop,Electronics,32,57226.41,1831245.12,North,5224.03
+2023-08-12,Desk Lamp,Home,21,1255.79,26371.59,South,7314.72
+2023-08-22,Laptop,Electronics,25,55618.73,1390468.25,West,1357.64
+2023-09-24,Monitor,Electronics,25,15287.78,382194.5,North,2969.26
+2023-09-04,Backpack,Lifestyle,30,2115.64,63469.2,Central,4487.79
+2023-09-17,Bookshelf,Furniture,38,6538.38,248458.44,South,4417.09
+2023-09-20,Laptop,Electronics,18,54537.85,981681.3,North,6955.03
+2023-09-20,Tablet,Electronics,20,19165.68,383313.6,East,6074.59
+2023-09-24,Laptop,Electronics,19,53914.67,1024378.73,South,2144.98
+2023-09-05,Coffee Maker,Home,33,4172.26,137684.58,West,5793.15
+2023-09-12,Office Chair,Furniture,22,7583.3,166832.6,South,3529.02
+2023-09-23,Desk Lamp,Home,30,1286.42,38592.6,North,4004.98
+2023-09-20,Wireless Mouse,Accessories,31,885.53,27451.43,East,3574.81
+2023-09-05,Backpack,Lifestyle,21,2200.05,46201.05,North,4504.5
+2023-09-05,Keyboard,Accessories,23,1856.48,42699.04,North,2063.79
+2023-09-11,Keyboard,Accessories,7,1759.08,12313.56,West,7954.05
+2023-09-17,Tablet,Electronics,29,18946.85,549458.65,East,6142.06
+2023-10-08,Tablet,Electronics,25,18815.29,470382.25,West,3626.49
+2023-10-07,Desk Lamp,Home,38,1356.78,51557.64,South,5673.01
+2023-10-05,Office Chair,Furniture,28,7646.81,214110.68,North,1255.3
+2023-10-27,Coffee Maker,Home,40,4053.95,162158.0,Central,3977.92
+2023-10-14,Backpack,Lifestyle,15,2154.64,32319.6,South,5000.9
+2023-10-21,Backpack,Lifestyle,21,2055.68,43169.28,Central,7738.8
+2023-10-12,Bookshelf,Furniture,28,6774.95,189698.6,North,6414.29
+2023-10-01,Monitor,Electronics,37,14839.33,549055.21,East,2440.7
+2023-10-26,Backpack,Lifestyle,23,2120.46,48770.58,West,6368.63
+2023-10-12,Backpack,Lifestyle,43,2145.04,92236.72,North,7558.29
+2023-10-14,Desk Lamp,Home,29,1355.42,39307.18,Central,6293.33
+2023-10-19,Bookshelf,Furniture,38,6199.56,235583.28,South,2064.65
+2023-10-18,Bookshelf,Furniture,21,6604.29,138690.09,North,2210.69
+2023-10-06,Smartphone,Electronics,33,23342.97,770318.01,Central,5509.33
+2023-11-11,Wireless Mouse,Accessories,35,924.61,32361.35,South,634.73
+2023-11-20,Keyboard,Accessories,30,1837.29,55118.7,East,7907.21
+2023-11-15,Smartphone,Electronics,36,24415.51,878958.36,East,6104.96
+2023-11-18,Monitor,Electronics,42,15362.63,645230.46,East,4085.11
+2023-11-25,Smartphone,Electronics,28,23848.41,667755.48,West,4656.13
+2023-11-16,Smartphone,Electronics,27,23366.85,630904.95,North,2837.65
+2023-11-27,Desk Lamp,Home,18,1303.39,23461.02,Central,3630.94
+2023-11-27,Coffee Maker,Home,30,4049.76,121492.8,North,4541.21
+2023-11-26,Tablet,Electronics,9,17793.03,160137.27,North,1923.67
+2023-11-25,Office Chair,Furniture,28,7970.63,223177.64,North,8259.52
+2023-11-12,Smartphone,Electronics,29,23517.77,682015.33,East,1913.57
+2023-11-24,Backpack,Lifestyle,27,2102.78,56775.06,North,1168.86
+2023-11-07,Desk Lamp,Home,27,1372.15,37048.05,Central,5360.9
+2023-11-01,Tablet,Electronics,18,17417.1,313507.8,East,1918.06
+2023-12-10,Desk Lamp,Home,40,1288.95,51558.0,North,6499.54
+2023-12-11,Desk Lamp,Home,34,1324.12,45020.08,West,4818.17
+2023-12-16,Laptop,Electronics,30,54285.36,1628560.8,West,4027.05
+2023-12-04,Keyboard,Accessories,37,1790.96,66265.52,North,5502.17
+2023-12-01,Tablet,Electronics,23,17951.44,412883.12,East,1365.18
+2023-12-21,Keyboard,Accessories,30,1790.75,53722.5,East,1039.21
+2023-12-27,Office Chair,Furniture,16,7392.24,118275.84,East,7719.97
+2023-12-11,Wireless Mouse,Accessories,23,878.59,20207.57,North,3183.09
+2023-12-25,Coffee Maker,Home,10,4398.95,43989.5,West,6223.88
+2023-12-05,Tablet,Electronics,37,18966.15,701747.55,North,2374.27
+2023-12-26,Keyboard,Accessories,23,1757.77,40428.71,East,5050.17
+2023-12-06,Headphones,Accessories,34,2186.8,74351.2,Central,3509.12
+2023-12-11,Bookshelf,Furniture,25,6436.51,160912.75,Central,3231.1
+2023-12-27,Coffee Maker,Home,4,4431.26,17725.04,West,4033.82
+2024-01-05,Keyboard,Accessories,28,1866.78,52269.84,South,4566.43
+2024-01-27,Laptop,Electronics,28,56094.45,1570644.6,West,583.66
+2024-01-18,Bookshelf,Furniture,32,6323.16,202341.12,East,4257.65
+2024-01-10,Smartphone,Electronics,28,23852.58,667872.24,Central,3152.07
+2024-01-08,Backpack,Lifestyle,21,2149.36,45136.56,East,1466.01
+2024-01-10,Bookshelf,Furniture,42,6654.73,279498.66,South,3425.08
+2024-01-01,Backpack,Lifestyle,18,2210.8,39794.4,West,513.35
+2024-01-12,Keyboard,Accessories,32,1856.86,59419.52,North,1547.89
+2024-01-18,Coffee Maker,Home,28,4254.39,119122.92,North,810.39
+2024-01-23,Coffee Maker,Home,35,3949.05,138216.75,East,8180.6
+2024-01-21,Keyboard,Accessories,15,1764.74,26471.1,South,8394.51
+2024-01-13,Laptop,Electronics,18,56521.43,1017385.74,North,5459.03
+2024-01-23,Wireless Mouse,Accessories,33,916.03,30228.99,North,2763.47
+2024-01-06,Backpack,Lifestyle,44,2156.32,94878.08,Central,7023.51
+2024-02-08,Smartphone,Electronics,19,25114.46,477174.74,North,3757.85
+2024-02-08,Bookshelf,Furniture,28,6655.34,186349.52,Central,8003.58
+2024-02-09,Keyboard,Accessories,19,1878.75,35696.25,West,2983.11
+2024-02-06,Smartphone,Electronics,25,24414.33,610358.25,East,7548.97
+2024-02-23,Monitor,Electronics,30,14300.56,429016.8,West,4709.06
+2024-02-13,Office Chair,Furniture,30,8145.89,244376.7,West,5770.64
+2024-02-15,Headphones,Accessories,33,2173.92,71739.36,Central,7451.73
+2024-02-22,Laptop,Electronics,20,55532.18,1110643.6,Central,8442.76
+2024-02-03,Bookshelf,Furniture,27,6829.01,184383.27,North,7749.23
+2024-02-03,Bookshelf,Furniture,27,6464.11,174530.97,South,603.65
+2024-02-17,Bookshelf,Furniture,11,6434.39,70778.29,Central,954.73
+2024-02-23,Headphones,Accessories,22,2140.31,47086.82,West,5093.5
+2024-02-25,Coffee Maker,Home,22,4159.6,91511.2,North,2861.12
+2024-02-17,Wireless Mouse,Accessories,22,951.3,20928.6,West,1357.19
+2024-03-15,Tablet,Electronics,25,19591.18,489779.5,West,6372.23
+2024-03-20,Backpack,Lifestyle,30,2151.65,64549.5,East,1934.64
+2024-03-04,Tablet,Electronics,19,19554.77,371540.63,North,7599.36
+2024-03-15,Wireless Mouse,Accessories,22,858.85,18894.7,North,6466.79
+2024-03-02,Coffee Maker,Home,22,4449.24,97883.28,North,1549.11
+2024-03-12,Bookshelf,Furniture,14,6887.92,96430.88,South,1381.56
+2024-03-15,Bookshelf,Furniture,26,6302.56,163866.56,West,6967.18
+2024-03-17,Backpack,Lifestyle,17,2197.1,37350.7,West,3837.75
+2024-03-26,Coffee Maker,Home,46,4144.99,190669.54,South,6027.98
+2024-03-16,Bookshelf,Furniture,17,6247.94,106214.98,South,6523.22
+2024-03-27,Desk Lamp,Home,22,1289.05,28359.1,North,4585.82
+2024-03-12,Coffee Maker,Home,22,4349.91,95698.02,Central,6902.01
+2024-03-06,Bookshelf,Furniture,19,6616.02,125704.38,West,1764.78
+2024-03-04,Headphones,Accessories,32,2217.09,70946.88,Central,6656.74
+2024-04-16,Laptop,Electronics,34,54562.31,1855118.54,North,6334.8
+2024-04-10,Laptop,Electronics,11,58039.19,638431.09,East,6635.03
+2024-04-25,Tablet,Electronics,54,19288.53,1041580.62,North,2425.65
+2024-04-19,Office Chair,Furniture,17,7928.56,134785.52,East,4726.18
+2024-04-14,Tablet,Electronics,30,19212.09,576362.7,Central,5732.46
+2024-04-24,Office Chair,Furniture,30,7752.03,232560.9,North,5061.27
+2024-04-06,Backpack,Lifestyle,41,2153.92,88310.72,North,3991.13
+2024-04-14,Wireless Mouse,Accessories,39,928.47,36210.33,North,6780.01
+2024-04-21,Coffee Maker,Home,35,4070.92,142482.2,Central,6513.34
+2024-04-18,Tablet,Electronics,37,18943.84,700922.08,Central,7842.77
+2024-04-02,Headphones,Accessories,23,2200.95,50621.85,North,2241.95
+2024-04-15,Backpack,Lifestyle,40,2141.13,85645.2,East,1560.01
+2024-04-10,Headphones,Accessories,42,2193.76,92137.92,West,2491.95
+2024-04-18,Desk Lamp,Home,26,1319.05,34295.3,North,1195.6
+2024-05-01,Smartphone,Electronics,10,24907.41,249074.1,Central,3081.03
+2024-05-14,Backpack,Lifestyle,20,2067.03,41340.6,South,4152.29
+2024-05-10,Smartphone,Electronics,15,23256.31,348844.65,South,965.15
+2024-05-22,Keyboard,Accessories,35,1759.09,61568.15,South,7967.19
+2024-05-19,Coffee Maker,Home,29,4094.51,118740.79,South,2270.3
+2024-05-09,Desk Lamp,Home,33,1366.92,45108.36,North,2937.26
+2024-05-19,Monitor,Electronics,28,14447.4,404527.2,East,1244.08
+2024-05-01,Coffee Maker,Home,31,4360.62,135179.22,West,1965.53
+2024-05-25,Desk Lamp,Home,19,1272.39,24175.41,North,4955.59
+2024-05-09,Backpack,Lifestyle,12,2088.04,25056.48,South,3148.73
+2024-05-19,Coffee Maker,Home,33,4328.51,142840.83,North,7770.16
+2024-05-01,Office Chair,Furniture,26,8003.92,208101.92,North,4802.41
+2024-05-19,Bookshelf,Furniture,31,6642.47,205916.57,East,1841.17
+2024-05-17,Tablet,Electronics,28,17718.34,496113.52,East,5154.84
+2024-06-07,Backpack,Lifestyle,13,2093.54,27216.02,West,4289.9
+2024-06-21,Backpack,Lifestyle,37,2149.72,79539.64,East,4257.63
+2024-06-23,Laptop,Electronics,19,58256.27,1106869.13,North,503.83
+2024-06-09,Backpack,Lifestyle,32,2118.65,67796.8,East,7206.9
+2024-06-02,Bookshelf,Furniture,25,6846.07,171151.75,South,3402.65
+2024-06-26,Office Chair,Furniture,17,7656.94,130167.98,South,2737.6
+2024-06-26,Desk Lamp,Home,26,1281.31,33314.06,East,867.35
+2024-06-17,Smartphone,Electronics,35,23725.79,830402.65,North,714.52
+2024-06-03,Coffee Maker,Home,30,4235.29,127058.7,South,5554.7
+2024-06-09,Tablet,Electronics,33,19387.35,639782.55,East,6996.54
+2024-06-04,Wireless Mouse,Accessories,31,853.35,26453.85,Central,3079.35
+2024-06-01,Desk Lamp,Home,27,1280.71,34579.17,West,3143.96
+2024-06-03,Keyboard,Accessories,28,1864.55,52207.4,North,1521.08
+2024-06-26,Backpack,Lifestyle,19,2178.01,41382.19,West,7592.15
+2024-07-16,Backpack,Lifestyle,37,2099.86,77694.82,Central,4398.17
+2024-07-03,Desk Lamp,Home,34,1251.9,42564.6,Central,2695.07
+2024-07-21,Smartphone,Electronics,20,25173.65,503473.0,East,1210.53
+2024-07-26,Smartphone,Electronics,21,23956.27,503081.67,North,2919.17
+2024-07-02,Smartphone,Electronics,36,22877.92,823605.12,West,7270.33
+2024-07-18,Wireless Mouse,Accessories,21,940.38,19747.98,North,2521.68
+2024-07-25,Smartphone,Electronics,36,22988.0,827568.0,Central,8473.67
+2024-07-22,Backpack,Lifestyle,33,2002.64,66087.12,North,1763.67
+2024-07-23,Keyboard,Accessories,34,1888.71,64216.14,West,871.8
+2024-07-10,Wireless Mouse,Accessories,20,860.46,17209.2,East,4138.88
+2024-07-01,Bookshelf,Furniture,32,6562.04,209985.28,East,6346.92
+2024-07-12,Wireless Mouse,Accessories,24,938.98,22535.52,Central,8223.97
+2024-07-24,Bookshelf,Furniture,24,6663.31,159919.44,North,1256.39
+2024-07-04,Keyboard,Accessories,2,1852.2,3704.4,North,4630.03
+2024-08-15,Desk Lamp,Home,31,1247.39,38669.09,South,692.6
+2024-08-17,Wireless Mouse,Accessories,33,855.28,28224.24,North,5124.07
+2024-08-23,Desk Lamp,Home,43,1374.05,59084.15,North,8197.36
+2024-08-09,Smartphone,Electronics,20,24677.76,493555.2,East,3307.45
+2024-08-18,Headphones,Accessories,40,2244.41,89776.4,North,1237.86
+2024-08-23,Headphones,Accessories,31,2102.11,65165.41,South,7893.51
+2024-08-19,Monitor,Electronics,36,14330.69,515904.84,North,5516.17
+2024-08-02,Keyboard,Accessories,26,1817.65,47258.9,Central,1712.5
+2024-08-06,Bookshelf,Furniture,29,6342.23,183924.67,South,6311.98
+2024-08-13,Wireless Mouse,Accessories,21,924.37,19411.77,East,7424.08
+2024-08-22,Smartphone,Electronics,32,24028.57,768914.24,East,3756.39
+2024-08-14,Bookshelf,Furniture,17,6830.75,116122.75,North,7111.05
+2024-08-26,Keyboard,Accessories,40,1706.76,68270.4,South,2076.52
+2024-08-22,Smartphone,Electronics,23,23805.49,547526.27,West,8486.41
+2024-09-17,Backpack,Lifestyle,27,2181.11,58889.97,East,4360.87
+2024-09-03,Bookshelf,Furniture,36,6189.62,222826.32,West,6551.59
+2024-09-23,Office Chair,Furniture,48,8064.31,387086.88,Central,7004.81
+2024-09-03,Office Chair,Furniture,29,7565.73,219406.17,Central,6742.91
+2024-09-23,Tablet,Electronics,34,18129.52,616403.68,Central,7135.15
+2024-09-15,Headphones,Accessories,25,2110.5,52762.5,West,945.39
+2024-09-23,Monitor,Electronics,15,13644.52,204667.8,South,7647.06
+2024-09-20,Office Chair,Furniture,5,7738.04,38690.2,East,6136.45
+2024-09-13,Wireless Mouse,Accessories,14,874.15,12238.1,Central,2941.87
+2024-09-08,Headphones,Accessories,34,2223.85,75610.9,East,824.59
+2024-09-22,Wireless Mouse,Accessories,36,929.28,33454.08,West,1657.47
+2024-09-21,Bookshelf,Furniture,30,6813.09,204392.7,Central,6208.55
+2024-09-27,Monitor,Electronics,14,15349.24,214889.36,North,6990.29
+2024-09-05,Smartphone,Electronics,29,24302.2,704763.8,South,4108.38
+2024-10-07,Keyboard,Accessories,25,1791.84,44796.0,East,7654.26
+2024-10-08,Smartphone,Electronics,40,24008.13,960325.2,South,3629.41
+2024-10-27,Smartphone,Electronics,37,25192.54,932123.98,West,1099.0
+2024-10-05,Smartphone,Electronics,41,24857.68,1019164.88,South,3135.75
+2024-10-21,Tablet,Electronics,42,18089.5,759759.0,West,2477.76
+2024-10-26,Coffee Maker,Home,55,4335.59,238457.45,West,2202.52
+2024-10-16,Headphones,Accessories,46,2108.2,96977.2,Central,2580.25
+2024-10-07,Backpack,Lifestyle,23,2056.39,47296.97,South,7652.62
+2024-10-06,Coffee Maker,Home,37,4032.49,149202.13,West,1366.08
+2024-10-08,Desk Lamp,Home,23,1352.7,31112.1,South,1354.96
+2024-10-14,Coffee Maker,Home,21,4238.84,89015.64,South,6118.23
+2024-10-25,Smartphone,Electronics,16,22991.74,367867.84,East,8319.66
+2024-10-19,Tablet,Electronics,43,19591.39,842429.77,East,3152.09
+2024-10-11,Headphones,Accessories,47,2188.68,102867.96,Central,3011.26
+2024-11-17,Smartphone,Electronics,17,23138.47,393353.99,West,819.47
+2024-11-10,Headphones,Accessories,46,2288.24,105259.04,Central,1871.52
+2024-11-03,Headphones,Accessories,22,2317.58,50986.76,Central,6914.04
+2024-11-06,Monitor,Electronics,34,15226.92,517715.28,North,1741.73
+2024-11-12,Laptop,Electronics,44,53957.95,2374149.8,West,5561.43
+2024-11-18,Office Chair,Furniture,43,7450.39,320366.77,North,1486.59
+2024-11-10,Headphones,Accessories,21,2114.06,44395.26,West,2524.97
+2024-11-25,Keyboard,Accessories,21,1800.41,37808.61,West,5731.87
+2024-11-02,Tablet,Electronics,38,17697.3,672497.4,South,3348.57
+2024-11-04,Bookshelf,Furniture,44,6714.13,295421.72,North,8145.73
+2024-11-24,Monitor,Electronics,35,14104.72,493665.2,West,5881.13
+2024-11-14,Monitor,Electronics,23,13879.91,319237.93,Central,6556.44
+2024-11-08,Smartphone,Electronics,42,22931.79,963135.18,West,7208.69
+2024-11-19,Keyboard,Accessories,42,1772.19,74431.98,East,7737.0
+2024-12-05,Monitor,Electronics,24,15139.57,363349.68,Central,6624.53
+2024-12-16,Desk Lamp,Home,27,1284.74,34687.98,West,1452.69
+2024-12-09,Keyboard,Accessories,10,1723.58,17235.8,South,3880.81
+2024-12-14,Smartphone,Electronics,37,24289.65,898717.05,West,3594.72
+2024-12-07,Smartphone,Electronics,2,23057.1,46114.2,Central,4399.41
+2024-12-21,Bookshelf,Furniture,30,6862.72,205881.6,East,5114.65
+2024-12-14,Backpack,Lifestyle,41,2068.29,84799.89,West,7018.14
+2024-12-23,Desk Lamp,Home,35,1320.17,46205.95,Central,7132.84
+2024-12-11,Laptop,Electronics,40,58333.83,2333353.2,North,2466.24
+2024-12-06,Coffee Maker,Home,30,4106.28,123188.4,East,2767.36
+2024-12-11,Wireless Mouse,Accessories,17,876.51,14900.67,Central,2155.38
+2024-12-17,Bookshelf,Furniture,51,6792.15,346399.65,East,6225.8
+2024-12-15,Tablet,Electronics,36,19490.69,701664.84,West,3312.34
+2024-12-04,Wireless Mouse,Accessories,41,875.61,35900.01,North,6924.73
+2025-01-13,Laptop,Electronics,26,54565.03,1418690.78,East,7317.71
+2025-01-04,Desk Lamp,Home,17,1292.93,21979.81,Central,6948.15
+2025-01-26,Tablet,Electronics,51,19453.14,992110.14,North,6386.23
+2025-01-15,Coffee Maker,Home,22,4091.46,90012.12,East,3675.35
+2025-01-23,Office Chair,Furniture,44,7528.93,331272.92,East,4448.32
+2025-01-20,Coffee Maker,Home,38,3969.44,150838.72,Central,1956.8
+2025-01-24,Keyboard,Accessories,19,1899.59,36092.21,East,7672.71
+2025-01-09,Backpack,Lifestyle,16,2124.75,33996.0,North,4294.42
+2025-01-20,Coffee Maker,Home,37,4272.15,158069.55,South,1702.5
+2025-01-07,Keyboard,Accessories,39,1872.36,73022.04,South,8156.64
+2025-01-23,Laptop,Electronics,31,58907.87,1826143.97,South,2793.24
+2025-01-22,Monitor,Electronics,31,14978.71,464340.01,Central,7751.41
+2025-01-26,Desk Lamp,Home,39,1328.12,51796.68,North,1241.66
+2025-01-20,Smartphone,Electronics,36,23246.9,836888.4,South,3887.78
+2025-02-08,Bookshelf,Furniture,18,6244.8,112406.4,East,7218.67
+2025-02-02,Smartphone,Electronics,25,23413.39,585334.75,East,1821.34
+2025-02-21,Monitor,Electronics,44,15138.24,666082.56,East,647.63
+2025-02-25,Wireless Mouse,Accessories,27,906.79,24483.33,Central,3833.38
+2025-02-22,Backpack,Lifestyle,40,2065.94,82637.6,South,6226.6
+2025-02-11,Desk Lamp,Home,14,1261.36,17659.04,North,3959.94
+2025-02-16,Wireless Mouse,Accessories,18,949.26,17086.68,Central,4643.8
+2025-02-10,Backpack,Lifestyle,13,2201.3,28616.9,North,2061.18
+2025-02-17,Smartphone,Electronics,27,23602.18,637258.86,East,2214.82
+2025-02-24,Monitor,Electronics,26,13632.83,354453.58,South,5890.52
+2025-02-02,Bookshelf,Furniture,22,6701.11,147424.42,West,3986.85
+2025-02-11,Headphones,Accessories,36,2109.66,75947.76,North,5212.9
+2025-02-09,Backpack,Lifestyle,38,2145.83,81541.54,East,2815.0
+2025-02-12,Headphones,Accessories,26,2207.01,57382.26,East,3681.87
+2025-03-10,Laptop,Electronics,36,53483.89,1925420.04,South,2109.17
+2025-03-22,Office Chair,Furniture,34,7789.97,264858.98,North,6321.88
+2025-03-13,Headphones,Accessories,26,2082.28,54139.28,East,1345.72
+2025-03-24,Monitor,Electronics,22,15041.6,330915.2,East,2769.72
+2025-03-07,Tablet,Electronics,16,19333.57,309337.12,South,5649.05
+2025-03-21,Smartphone,Electronics,42,25092.55,1053887.1,Central,1687.3
+2025-03-06,Laptop,Electronics,27,55291.33,1492865.91,Central,3011.46
+2025-03-11,Headphones,Accessories,18,2291.15,41240.7,Central,1643.67
+2025-03-12,Keyboard,Accessories,29,1743.55,50562.95,North,2359.08
+2025-03-27,Laptop,Electronics,8,53023.01,424184.08,North,2726.8
+2025-03-13,Backpack,Lifestyle,16,2084.0,33344.0,Central,6165.48
+2025-03-04,Tablet,Electronics,21,19144.63,402037.23,West,1213.54
+2025-03-07,Headphones,Accessories,36,2174.87,78295.32,West,6786.07
+2025-03-11,Smartphone,Electronics,23,24501.46,563533.58,North,2436.33
+2025-04-12,Headphones,Accessories,34,2141.59,72814.06,Central,4542.46
+2025-04-10,Keyboard,Accessories,37,1731.84,64078.08,North,2506.32
+2025-04-11,Monitor,Electronics,49,15100.18,739908.82,East,6611.45
+2025-04-08,Wireless Mouse,Accessories,14,942.18,13190.52,West,1437.96
+2025-04-13,Desk Lamp,Home,35,1306.31,45720.85,East,5533.62
+2025-04-04,Headphones,Accessories,38,2251.23,85546.74,South,5231.05
+2025-04-06,Headphones,Accessories,49,2124.24,104087.76,West,4057.47
+2025-04-09,Monitor,Electronics,21,14280.4,299888.4,West,2422.29
+2025-04-07,Office Chair,Furniture,26,8000.02,208000.52,West,6845.32
+2025-04-07,Coffee Maker,Home,11,4013.35,44146.85,West,1128.0
+2025-04-07,Coffee Maker,Home,39,4202.59,163901.01,South,5777.55
+2025-04-13,Monitor,Electronics,26,14410.68,374677.68,North,3565.76
+2025-04-09,Wireless Mouse,Accessories,17,949.1,16134.7,North,3530.91
+2025-04-06,Wireless Mouse,Accessories,32,863.49,27631.68,North,1436.57
+2025-05-26,Coffee Maker,Home,37,3988.43,147571.91,North,3113.84
+2025-05-26,Bookshelf,Furniture,29,6135.11,177918.19,Central,7777.97
+2025-05-02,Tablet,Electronics,37,18279.98,676359.26,East,2749.2
+2025-05-24,Wireless Mouse,Accessories,40,857.81,34312.4,Central,5802.47
+2025-05-04,Office Chair,Furniture,40,8045.49,321819.6,Central,7102.4
+2025-05-01,Bookshelf,Furniture,39,6440.08,251163.12,North,8089.31
+2025-05-24,Tablet,Electronics,36,18487.25,665541.0,South,3164.86
+2025-05-17,Bookshelf,Furniture,40,6719.75,268790.0,West,1618.9
+2025-05-02,Backpack,Lifestyle,30,2160.82,64824.6,East,5807.06
+2025-05-22,Tablet,Electronics,41,18443.27,756174.07,South,7370.8
+2025-05-03,Desk Lamp,Home,41,1265.73,51894.93,South,692.78
+2025-05-26,Smartphone,Electronics,34,22934.2,779762.8,North,3967.86
+2025-05-22,Smartphone,Electronics,34,23522.43,799762.62,North,8196.14
+2025-05-25,Office Chair,Furniture,25,7752.33,193808.25,North,7032.99
+2025-06-16,Smartphone,Electronics,36,25385.76,913887.36,East,6128.63
+2025-06-08,Wireless Mouse,Accessories,32,936.29,29961.28,Central,8473.92
+2025-06-23,Monitor,Electronics,26,14631.82,380427.32,West,1166.48
+2025-06-01,Monitor,Electronics,37,13900.28,514310.36,West,8460.07
+2025-06-03,Backpack,Lifestyle,39,2125.39,82890.21,West,7341.22
+2025-06-16,Keyboard,Accessories,45,1768.52,79583.4,North,3936.85
+2025-06-09,Keyboard,Accessories,34,1845.87,62759.58,East,2096.15
+2025-06-01,Laptop,Electronics,16,57746.44,923943.04,North,7606.13
+2025-06-03,Coffee Maker,Home,35,3978.25,139238.75,South,3296.45
+2025-06-06,Desk Lamp,Home,39,1263.37,49271.43,North,3006.76
+2025-06-09,Laptop,Electronics,40,58655.27,2346210.8,North,6032.03
+2025-06-02,Keyboard,Accessories,45,1817.94,81807.3,South,1145.53
+2025-06-11,Office Chair,Furniture,35,7922.19,277276.65,South,721.91
+2025-06-17,Monitor,Electronics,39,14703.17,573423.63,Central,7369.75
+2025-07-19,Wireless Mouse,Accessories,41,882.02,36162.82,West,1163.31
+2025-07-02,Headphones,Accessories,29,2187.69,63443.01,South,6076.51
+2025-07-19,Office Chair,Furniture,32,7651.93,244861.76,North,4354.25
+2025-07-25,Laptop,Electronics,31,54467.2,1688483.2,East,6146.62
+2025-07-25,Desk Lamp,Home,28,1294.0,36232.0,East,6630.21
+2025-07-20,Wireless Mouse,Accessories,43,928.68,39933.24,South,5816.7
+2025-07-15,Monitor,Electronics,35,15367.48,537861.8,South,3563.27
+2025-07-04,Laptop,Electronics,33,56416.4,1861741.2,South,1463.49
+2025-07-08,Coffee Maker,Home,34,4107.99,139671.66,Central,2631.77
+2025-07-01,Keyboard,Accessories,38,1734.79,65922.02,South,3045.24
+2025-07-13,Monitor,Electronics,23,13914.88,320042.24,West,8452.66
+2025-07-19,Headphones,Accessories,38,2198.99,83561.62,South,594.32
+2025-07-25,Laptop,Electronics,29,53266.0,1544714.0,Central,6617.32
+2025-07-20,Keyboard,Accessories,54,1890.54,102089.16,South,1679.01
+2025-08-11,Tablet,Electronics,26,19318.74,502287.24,Central,4324.74
+2025-08-14,Tablet,Electronics,32,18602.64,595284.48,North,3502.73
+2025-08-14,Keyboard,Accessories,49,1816.56,89011.44,North,6516.38
+2025-08-01,Smartphone,Electronics,15,22946.41,344196.15,Central,7095.86
+2025-08-08,Wireless Mouse,Accessories,41,853.93,35011.13,North,4621.81
+2025-08-08,Laptop,Electronics,9,59082.32,531740.88,East,4908.58
+2025-08-06,Wireless Mouse,Accessories,37,875.29,32385.73,West,2338.14
+2025-08-27,Desk Lamp,Home,42,1343.11,56410.62,West,7555.0
+2025-08-25,Laptop,Electronics,28,54776.71,1533747.88,Central,1680.09
+2025-08-24,Office Chair,Furniture,24,7567.82,181627.68,West,4806.92
+2025-08-20,Backpack,Lifestyle,46,2135.61,98238.06,North,3453.26
+2025-08-15,Wireless Mouse,Accessories,22,953.63,20979.86,East,7409.08
+2025-08-23,Office Chair,Furniture,33,8019.38,264639.54,Central,5111.17
+2025-08-17,Monitor,Electronics,24,14536.66,348879.84,South,7208.7
+2025-09-20,Tablet,Electronics,22,17976.13,395474.86,Central,1908.39
+2025-09-02,Monitor,Electronics,24,14498.76,347970.24,Central,7783.32
+2025-09-08,Monitor,Electronics,38,13633.02,518054.76,North,1787.44
+2025-09-10,Backpack,Lifestyle,31,1985.06,61536.86,South,2170.64
+2025-09-15,Laptop,Electronics,31,52698.85,1633664.35,South,1194.33
+2025-09-16,Backpack,Lifestyle,28,2116.97,59275.16,North,7036.32
+2025-09-16,Wireless Mouse,Accessories,43,933.82,40154.26,West,995.08
+2025-09-04,Keyboard,Accessories,31,1695.25,52552.75,West,971.03
+2025-09-17,Headphones,Accessories,30,2243.03,67290.9,East,7297.22
+2025-09-16,Coffee Maker,Home,21,4309.22,90493.62,South,567.04
+2025-09-06,Wireless Mouse,Accessories,33,862.7,28469.1,Central,5789.36
+2025-09-18,Office Chair,Furniture,39,8040.23,313568.97,East,7610.23
+2025-09-11,Keyboard,Accessories,49,1793.13,87863.37,South,871.64
+2025-09-22,Desk Lamp,Home,21,1278.87,26856.27,East,5608.64
+2025-10-11,Coffee Maker,Home,30,4375.2,131256.0,West,6122.67
+2025-10-15,Keyboard,Accessories,49,1833.73,89852.77,South,3389.8
+2025-10-04,Office Chair,Furniture,28,7376.76,206549.28,Central,2984.29
+2025-10-12,Desk Lamp,Home,30,1358.74,40762.2,Central,1430.09
+2025-10-24,Laptop,Electronics,56,54589.7,3057023.2,East,6408.1
+2025-10-20,Keyboard,Accessories,36,1726.61,62157.96,East,2056.36
+2025-10-23,Monitor,Electronics,31,14459.2,448235.2,East,6695.65
+2025-10-06,Desk Lamp,Home,59,1319.58,77855.22,East,3102.44
+2025-10-25,Laptop,Electronics,34,57837.27,1966467.18,North,6158.5
+2025-10-01,Laptop,Electronics,24,59252.21,1422053.04,South,5797.58
+2025-10-02,Backpack,Lifestyle,43,2194.5,94363.5,North,7441.22
+2025-10-24,Headphones,Accessories,37,2331.95,86282.15,South,1448.6
+2025-10-19,Desk Lamp,Home,42,1293.32,54319.44,West,3007.72
+2025-10-08,Tablet,Electronics,41,17928.48,735067.68,Central,5936.17
+2025-11-19,Backpack,Lifestyle,35,2095.09,73328.15,Central,7965.25
+2025-11-10,Desk Lamp,Home,46,1321.7,60798.2,West,8202.3
+2025-11-26,Wireless Mouse,Accessories,34,910.62,30961.08,South,2754.76
+2025-11-09,Tablet,Electronics,38,18665.6,709292.8,West,2549.61
+2025-11-02,Smartphone,Electronics,28,24679.86,691036.08,East,5373.2
+2025-11-18,Coffee Maker,Home,41,4221.59,173085.19,North,7054.86
+2025-11-27,Tablet,Electronics,43,18395.6,791010.8,East,6701.21
+2025-11-12,Bookshelf,Furniture,35,6262.66,219193.1,West,4861.58
+2025-11-13,Bookshelf,Furniture,38,6459.0,245442.0,South,2076.29
+2025-11-13,Smartphone,Electronics,14,24469.98,342579.72,Central,7079.34
+2025-11-08,Monitor,Electronics,47,15170.96,713035.12,Central,7370.28
+2025-11-21,Desk Lamp,Home,44,1245.43,54798.92,East,7609.65
+2025-11-15,Tablet,Electronics,34,19541.98,664427.32,North,2383.48
+2025-11-25,Laptop,Electronics,44,58790.88,2586798.72,Central,709.73
+2025-12-19,Bookshelf,Furniture,48,6383.06,306386.88,South,8032.51
+2025-12-04,Wireless Mouse,Accessories,40,923.14,36925.6,West,1457.58
+2025-12-19,Smartphone,Electronics,27,24461.38,660457.26,West,8486.8
+2025-12-09,Keyboard,Accessories,48,1832.87,87977.76,North,5354.88
+2025-12-23,Headphones,Accessories,34,2281.9,77584.6,East,7312.52
+2025-12-03,Monitor,Electronics,34,14459.9,491636.6,Central,5366.82
+2025-12-03,Desk Lamp,Home,38,1231.71,46804.98,East,6079.39
+2025-12-22,Monitor,Electronics,42,14562.4,611620.8,North,1357.85
+2025-12-07,Smartphone,Electronics,40,22880.39,915215.6,North,5262.5
+2025-12-23,Backpack,Lifestyle,35,1992.55,69739.25,South,1653.06
+2025-12-22,Bookshelf,Furniture,30,6406.13,192183.9,South,8038.41
+2025-12-01,Wireless Mouse,Accessories,46,893.38,41095.48,West,1794.4
+2025-12-05,Headphones,Accessories,21,2078.06,43639.26,East,3998.27
+2025-12-20,Coffee Maker,Home,41,4222.8,173134.8,East,4543.72

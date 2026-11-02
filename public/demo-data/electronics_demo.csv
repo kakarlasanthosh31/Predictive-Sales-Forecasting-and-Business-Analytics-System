@@ -1,0 +1,306 @@
+﻿date,product,category,units_sold,unit_price,revenue,region,marketing_spend
+2023-01-02,Tablet,Electronics,26,18525.51,481663.26,East,3277.35
+2023-01-19,Laptop,Electronics,30,56790.3,1703709.0,South,7863.2
+2023-01-18,Wireless Mouse,Accessories,6,853.96,5123.76,South,3815.5
+2023-01-19,Wireless Mouse,Accessories,28,924.62,25889.36,East,4022.41
+2023-01-05,Smartphone,Electronics,21,24591.44,516420.24,South,8155.78
+2023-01-20,Keyboard,Accessories,20,1717.88,34357.6,East,7096.7
+2023-01-12,Keyboard,Accessories,13,1731.64,22511.32,South,2459.07
+2023-01-15,Laptop,Electronics,28,55170.83,1544783.24,South,5906.44
+2023-01-09,Tablet,Electronics,33,18387.33,606781.89,West,6383.2
+2023-01-15,Keyboard,Accessories,19,1757.05,33383.95,South,1118.24
+2023-02-01,Tablet,Electronics,19,17778.89,337798.91,West,1103.01
+2023-02-06,Smartphone,Electronics,6,24955.13,149730.78,North,5462.75
+2023-02-26,Tablet,Electronics,28,17540.91,491145.48,North,570.16
+2023-02-09,Monitor,Electronics,5,13996.49,69982.45,Central,3039.49
+2023-02-25,Laptop,Electronics,17,53071.18,902210.06,West,4689.79
+2023-02-05,Headphones,Accessories,36,2098.56,75548.16,Central,7448.14
+2023-02-12,Monitor,Electronics,27,14207.11,383591.97,South,5587.41
+2023-02-17,Tablet,Electronics,35,18388.45,643595.75,Central,826.07
+2023-03-03,Monitor,Electronics,18,14662.64,263927.52,West,859.58
+2023-03-06,Smartphone,Electronics,8,22867.8,182942.4,Central,4615.34
+2023-03-19,Laptop,Electronics,23,55569.65,1278101.95,North,5405.29
+2023-03-18,Headphones,Accessories,19,2141.17,40682.23,North,2498.35
+2023-03-19,Wireless Mouse,Accessories,6,937.14,5622.84,North,1077.5
+2023-03-10,Keyboard,Accessories,11,1768.43,19452.73,South,5914.65
+2023-03-10,Keyboard,Accessories,35,1786.65,62532.75,North,5417.8
+2023-03-05,Keyboard,Accessories,27,1775.5,47938.5,West,4411.08
+2023-03-02,Keyboard,Accessories,19,1740.69,33073.11,West,4954.1
+2023-03-26,Wireless Mouse,Accessories,21,889.17,18672.57,North,6005.89
+2023-03-05,Headphones,Accessories,8,2194.05,17552.4,West,6553.24
+2023-03-19,Keyboard,Accessories,24,1705.91,40941.84,South,6408.16
+2023-04-09,Wireless Mouse,Accessories,24,902.22,21653.28,West,8234.46
+2023-04-09,Laptop,Electronics,2,58909.65,117819.3,West,2492.2
+2023-04-25,Smartphone,Electronics,6,22763.26,136579.56,West,708.02
+2023-04-02,Wireless Mouse,Accessories,14,903.69,12651.66,South,8248.07
+2023-04-27,Wireless Mouse,Accessories,5,887.15,4435.75,East,2983.0
+2023-04-09,Monitor,Electronics,29,14689.65,425999.85,South,3402.64
+2023-04-04,Smartphone,Electronics,23,24402.57,561259.11,East,3316.13
+2023-04-07,Laptop,Electronics,8,52808.76,422470.08,East,2319.46
+2023-05-27,Laptop,Electronics,29,59127.86,1714707.94,West,7258.23
+2023-05-13,Tablet,Electronics,27,18500.87,499523.49,South,7394.67
+2023-05-27,Keyboard,Accessories,14,1775.83,24861.62,Central,3023.19
+2023-05-05,Keyboard,Accessories,31,1807.85,56043.35,East,1691.05
+2023-05-24,Wireless Mouse,Accessories,32,861.78,27576.96,East,3454.68
+2023-05-17,Wireless Mouse,Accessories,29,910.07,26392.03,East,836.09
+2023-05-13,Keyboard,Accessories,22,1778.59,39128.98,East,5856.61
+2023-05-18,Headphones,Accessories,37,2265.38,83819.06,West,1831.4
+2023-06-01,Headphones,Accessories,26,2077.05,54003.3,West,8454.15
+2023-06-17,Monitor,Electronics,12,14891.87,178702.44,East,5614.49
+2023-06-12,Smartphone,Electronics,32,23643.61,756595.52,West,1952.44
+2023-06-19,Monitor,Electronics,23,14503.04,333569.92,East,4196.05
+2023-06-17,Laptop,Electronics,24,53535.37,1284848.88,Central,7276.73
+2023-06-05,Monitor,Electronics,9,15282.41,137541.69,West,8101.79
+2023-06-11,Tablet,Electronics,20,17782.09,355641.8,Central,2452.4
+2023-06-27,Keyboard,Accessories,22,1856.98,40853.56,East,5156.39
+2023-06-09,Monitor,Electronics,20,14951.37,299027.4,Central,2983.86
+2023-06-14,Monitor,Electronics,41,14535.23,595944.43,North,7573.07
+2023-06-18,Smartphone,Electronics,42,22891.14,961427.88,East,6394.21
+2023-07-26,Laptop,Electronics,22,54579.31,1200744.82,North,4283.68
+2023-07-11,Headphones,Accessories,19,2199.71,41794.49,South,4626.61
+2023-07-12,Headphones,Accessories,32,2086.22,66759.04,North,4140.31
+2023-07-04,Wireless Mouse,Accessories,34,882.77,30014.18,North,7091.0
+2023-07-15,Smartphone,Electronics,12,24754.69,297056.28,South,4793.45
+2023-07-20,Wireless Mouse,Accessories,28,936.43,26220.04,North,7283.63
+2023-07-25,Tablet,Electronics,33,19476.21,642714.93,Central,5943.12
+2023-07-17,Wireless Mouse,Accessories,20,854.6,17092.0,North,7972.7
+2023-08-07,Headphones,Accessories,47,2243.77,105457.19,East,4815.41
+2023-08-26,Smartphone,Electronics,19,23844.58,453047.02,East,6101.82
+2023-08-16,Laptop,Electronics,26,56173.18,1460502.68,West,3375.55
+2023-08-15,Laptop,Electronics,44,54651.87,2404682.28,East,5255.06
+2023-08-15,Monitor,Electronics,27,15255.04,411886.08,South,6762.51
+2023-08-15,Headphones,Accessories,20,2199.31,43986.2,Central,4972.3
+2023-08-12,Monitor,Electronics,24,14923.35,358160.4,Central,4335.95
+2023-08-12,Keyboard,Accessories,30,1873.41,56202.3,North,5087.47
+2023-08-26,Wireless Mouse,Accessories,18,884.72,15924.96,South,5777.33
+2023-08-12,Laptop,Electronics,32,57226.41,1831245.12,North,5224.03
+2023-08-22,Laptop,Electronics,25,55618.73,1390468.25,West,1357.64
+2023-09-24,Monitor,Electronics,25,15287.78,382194.5,North,2969.26
+2023-09-20,Laptop,Electronics,18,54537.85,981681.3,North,6955.03
+2023-09-20,Tablet,Electronics,20,19165.68,383313.6,East,6074.59
+2023-09-24,Laptop,Electronics,19,53914.67,1024378.73,South,2144.98
+2023-09-20,Wireless Mouse,Accessories,31,885.53,27451.43,East,3574.81
+2023-09-05,Keyboard,Accessories,23,1856.48,42699.04,North,2063.79
+2023-09-11,Keyboard,Accessories,7,1759.08,12313.56,West,7954.05
+2023-09-17,Tablet,Electronics,29,18946.85,549458.65,East,6142.06
+2023-10-08,Tablet,Electronics,25,18815.29,470382.25,West,3626.49
+2023-10-01,Monitor,Electronics,37,14839.33,549055.21,East,2440.7
+2023-10-06,Smartphone,Electronics,33,23342.97,770318.01,Central,5509.33
+2023-11-11,Wireless Mouse,Accessories,35,924.61,32361.35,South,634.73
+2023-11-20,Keyboard,Accessories,30,1837.29,55118.7,East,7907.21
+2023-11-15,Smartphone,Electronics,36,24415.51,878958.36,East,6104.96
+2023-11-18,Monitor,Electronics,42,15362.63,645230.46,East,4085.11
+2023-11-25,Smartphone,Electronics,28,23848.41,667755.48,West,4656.13
+2023-11-16,Smartphone,Electronics,27,23366.85,630904.95,North,2837.65
+2023-11-26,Tablet,Electronics,9,17793.03,160137.27,North,1923.67
+2023-11-12,Smartphone,Electronics,29,23517.77,682015.33,East,1913.57
+2023-11-01,Tablet,Electronics,18,17417.1,313507.8,East,1918.06
+2023-12-16,Laptop,Electronics,30,54285.36,1628560.8,West,4027.05
+2023-12-04,Keyboard,Accessories,37,1790.96,66265.52,North,5502.17
+2023-12-01,Tablet,Electronics,23,17951.44,412883.12,East,1365.18
+2023-12-21,Keyboard,Accessories,30,1790.75,53722.5,East,1039.21
+2023-12-11,Wireless Mouse,Accessories,23,878.59,20207.57,North,3183.09
+2023-12-05,Tablet,Electronics,37,18966.15,701747.55,North,2374.27
+2023-12-26,Keyboard,Accessories,23,1757.77,40428.71,East,5050.17
+2023-12-06,Headphones,Accessories,34,2186.8,74351.2,Central,3509.12
+2024-01-05,Keyboard,Accessories,28,1866.78,52269.84,South,4566.43
+2024-01-27,Laptop,Electronics,28,56094.45,1570644.6,West,583.66
+2024-01-10,Smartphone,Electronics,28,23852.58,667872.24,Central,3152.07
+2024-01-12,Keyboard,Accessories,32,1856.86,59419.52,North,1547.89
+2024-01-21,Keyboard,Accessories,15,1764.74,26471.1,South,8394.51
+2024-01-13,Laptop,Electronics,18,56521.43,1017385.74,North,5459.03
+2024-01-23,Wireless Mouse,Accessories,33,916.03,30228.99,North,2763.47
+2024-02-08,Smartphone,Electronics,19,25114.46,477174.74,North,3757.85
+2024-02-09,Keyboard,Accessories,19,1878.75,35696.25,West,2983.11
+2024-02-06,Smartphone,Electronics,25,24414.33,610358.25,East,7548.97
+2024-02-23,Monitor,Electronics,30,14300.56,429016.8,West,4709.06
+2024-02-15,Headphones,Accessories,33,2173.92,71739.36,Central,7451.73
+2024-02-22,Laptop,Electronics,20,55532.18,1110643.6,Central,8442.76
+2024-02-23,Headphones,Accessories,22,2140.31,47086.82,West,5093.5
+2024-02-17,Wireless Mouse,Accessories,22,951.3,20928.6,West,1357.19
+2024-03-15,Tablet,Electronics,25,19591.18,489779.5,West,6372.23
+2024-03-04,Tablet,Electronics,19,19554.77,371540.63,North,7599.36
+2024-03-15,Wireless Mouse,Accessories,22,858.85,18894.7,North,6466.79
+2024-03-04,Headphones,Accessories,32,2217.09,70946.88,Central,6656.74
+2024-04-16,Laptop,Electronics,34,54562.31,1855118.54,North,6334.8
+2024-04-10,Laptop,Electronics,11,58039.19,638431.09,East,6635.03
+2024-04-25,Tablet,Electronics,54,19288.53,1041580.62,North,2425.65
+2024-04-14,Tablet,Electronics,30,19212.09,576362.7,Central,5732.46
+2024-04-14,Wireless Mouse,Accessories,39,928.47,36210.33,North,6780.01
+2024-04-18,Tablet,Electronics,37,18943.84,700922.08,Central,7842.77
+2024-04-02,Headphones,Accessories,23,2200.95,50621.85,North,2241.95
+2024-04-10,Headphones,Accessories,42,2193.76,92137.92,West,2491.95
+2024-05-01,Smartphone,Electronics,10,24907.41,249074.1,Central,3081.03
+2024-05-10,Smartphone,Electronics,15,23256.31,348844.65,South,965.15
+2024-05-22,Keyboard,Accessories,35,1759.09,61568.15,South,7967.19
+2024-05-19,Monitor,Electronics,28,14447.4,404527.2,East,1244.08
+2024-05-17,Tablet,Electronics,28,17718.34,496113.52,East,5154.84
+2024-06-23,Laptop,Electronics,19,58256.27,1106869.13,North,503.83
+2024-06-17,Smartphone,Electronics,35,23725.79,830402.65,North,714.52
+2024-06-09,Tablet,Electronics,33,19387.35,639782.55,East,6996.54
+2024-06-04,Wireless Mouse,Accessories,31,853.35,26453.85,Central,3079.35
+2024-06-03,Keyboard,Accessories,28,1864.55,52207.4,North,1521.08
+2024-07-21,Smartphone,Electronics,20,25173.65,503473.0,East,1210.53
+2024-07-26,Smartphone,Electronics,21,23956.27,503081.67,North,2919.17
+2024-07-02,Smartphone,Electronics,36,22877.92,823605.12,West,7270.33
+2024-07-18,Wireless Mouse,Accessories,21,940.38,19747.98,North,2521.68
+2024-07-25,Smartphone,Electronics,36,22988.0,827568.0,Central,8473.67
+2024-07-23,Keyboard,Accessories,34,1888.71,64216.14,West,871.8
+2024-07-10,Wireless Mouse,Accessories,20,860.46,17209.2,East,4138.88
+2024-07-12,Wireless Mouse,Accessories,24,938.98,22535.52,Central,8223.97
+2024-07-04,Keyboard,Accessories,2,1852.2,3704.4,North,4630.03
+2024-08-17,Wireless Mouse,Accessories,33,855.28,28224.24,North,5124.07
+2024-08-09,Smartphone,Electronics,20,24677.76,493555.2,East,3307.45
+2024-08-18,Headphones,Accessories,40,2244.41,89776.4,North,1237.86
+2024-08-23,Headphones,Accessories,31,2102.11,65165.41,South,7893.51
+2024-08-19,Monitor,Electronics,36,14330.69,515904.84,North,5516.17
+2024-08-02,Keyboard,Accessories,26,1817.65,47258.9,Central,1712.5
+2024-08-13,Wireless Mouse,Accessories,21,924.37,19411.77,East,7424.08
+2024-08-22,Smartphone,Electronics,32,24028.57,768914.24,East,3756.39
+2024-08-26,Keyboard,Accessories,40,1706.76,68270.4,South,2076.52
+2024-08-22,Smartphone,Electronics,23,23805.49,547526.27,West,8486.41
+2024-09-23,Tablet,Electronics,34,18129.52,616403.68,Central,7135.15
+2024-09-15,Headphones,Accessories,25,2110.5,52762.5,West,945.39
+2024-09-23,Monitor,Electronics,15,13644.52,204667.8,South,7647.06
+2024-09-13,Wireless Mouse,Accessories,14,874.15,12238.1,Central,2941.87
+2024-09-08,Headphones,Accessories,34,2223.85,75610.9,East,824.59
+2024-09-22,Wireless Mouse,Accessories,36,929.28,33454.08,West,1657.47
+2024-09-27,Monitor,Electronics,14,15349.24,214889.36,North,6990.29
+2024-09-05,Smartphone,Electronics,29,24302.2,704763.8,South,4108.38
+2024-10-07,Keyboard,Accessories,25,1791.84,44796.0,East,7654.26
+2024-10-08,Smartphone,Electronics,40,24008.13,960325.2,South,3629.41
+2024-10-27,Smartphone,Electronics,37,25192.54,932123.98,West,1099.0
+2024-10-05,Smartphone,Electronics,41,24857.68,1019164.88,South,3135.75
+2024-10-21,Tablet,Electronics,42,18089.5,759759.0,West,2477.76
+2024-10-16,Headphones,Accessories,46,2108.2,96977.2,Central,2580.25
+2024-10-25,Smartphone,Electronics,16,22991.74,367867.84,East,8319.66
+2024-10-19,Tablet,Electronics,43,19591.39,842429.77,East,3152.09
+2024-10-11,Headphones,Accessories,47,2188.68,102867.96,Central,3011.26
+2024-11-17,Smartphone,Electronics,17,23138.47,393353.99,West,819.47
+2024-11-10,Headphones,Accessories,46,2288.24,105259.04,Central,1871.52
+2024-11-03,Headphones,Accessories,22,2317.58,50986.76,Central,6914.04
+2024-11-06,Monitor,Electronics,34,15226.92,517715.28,North,1741.73
+2024-11-12,Laptop,Electronics,44,53957.95,2374149.8,West,5561.43
+2024-11-10,Headphones,Accessories,21,2114.06,44395.26,West,2524.97
+2024-11-25,Keyboard,Accessories,21,1800.41,37808.61,West,5731.87
+2024-11-02,Tablet,Electronics,38,17697.3,672497.4,South,3348.57
+2024-11-24,Monitor,Electronics,35,14104.72,493665.2,West,5881.13
+2024-11-14,Monitor,Electronics,23,13879.91,319237.93,Central,6556.44
+2024-11-08,Smartphone,Electronics,42,22931.79,963135.18,West,7208.69
+2024-11-19,Keyboard,Accessories,42,1772.19,74431.98,East,7737.0
+2024-12-05,Monitor,Electronics,24,15139.57,363349.68,Central,6624.53
+2024-12-09,Keyboard,Accessories,10,1723.58,17235.8,South,3880.81
+2024-12-14,Smartphone,Electronics,37,24289.65,898717.05,West,3594.72
+2024-12-07,Smartphone,Electronics,2,23057.1,46114.2,Central,4399.41
+2024-12-11,Laptop,Electronics,40,58333.83,2333353.2,North,2466.24
+2024-12-11,Wireless Mouse,Accessories,17,876.51,14900.67,Central,2155.38
+2024-12-15,Tablet,Electronics,36,19490.69,701664.84,West,3312.34
+2024-12-04,Wireless Mouse,Accessories,41,875.61,35900.01,North,6924.73
+2025-01-13,Laptop,Electronics,26,54565.03,1418690.78,East,7317.71
+2025-01-26,Tablet,Electronics,51,19453.14,992110.14,North,6386.23
+2025-01-24,Keyboard,Accessories,19,1899.59,36092.21,East,7672.71
+2025-01-07,Keyboard,Accessories,39,1872.36,73022.04,South,8156.64
+2025-01-23,Laptop,Electronics,31,58907.87,1826143.97,South,2793.24
+2025-01-22,Monitor,Electronics,31,14978.71,464340.01,Central,7751.41
+2025-01-20,Smartphone,Electronics,36,23246.9,836888.4,South,3887.78
+2025-02-02,Smartphone,Electronics,25,23413.39,585334.75,East,1821.34
+2025-02-21,Monitor,Electronics,44,15138.24,666082.56,East,647.63
+2025-02-25,Wireless Mouse,Accessories,27,906.79,24483.33,Central,3833.38
+2025-02-16,Wireless Mouse,Accessories,18,949.26,17086.68,Central,4643.8
+2025-02-17,Smartphone,Electronics,27,23602.18,637258.86,East,2214.82
+2025-02-24,Monitor,Electronics,26,13632.83,354453.58,South,5890.52
+2025-02-11,Headphones,Accessories,36,2109.66,75947.76,North,5212.9
+2025-02-12,Headphones,Accessories,26,2207.01,57382.26,East,3681.87
+2025-03-10,Laptop,Electronics,36,53483.89,1925420.04,South,2109.17
+2025-03-13,Headphones,Accessories,26,2082.28,54139.28,East,1345.72
+2025-03-24,Monitor,Electronics,22,15041.6,330915.2,East,2769.72
+2025-03-07,Tablet,Electronics,16,19333.57,309337.12,South,5649.05
+2025-03-21,Smartphone,Electronics,42,25092.55,1053887.1,Central,1687.3
+2025-03-06,Laptop,Electronics,27,55291.33,1492865.91,Central,3011.46
+2025-03-11,Headphones,Accessories,18,2291.15,41240.7,Central,1643.67
+2025-03-12,Keyboard,Accessories,29,1743.55,50562.95,North,2359.08
+2025-03-27,Laptop,Electronics,8,53023.01,424184.08,North,2726.8
+2025-03-04,Tablet,Electronics,21,19144.63,402037.23,West,1213.54
+2025-03-07,Headphones,Accessories,36,2174.87,78295.32,West,6786.07
+2025-03-11,Smartphone,Electronics,23,24501.46,563533.58,North,2436.33
+2025-04-12,Headphones,Accessories,34,2141.59,72814.06,Central,4542.46
+2025-04-10,Keyboard,Accessories,37,1731.84,64078.08,North,2506.32
+2025-04-11,Monitor,Electronics,49,15100.18,739908.82,East,6611.45
+2025-04-08,Wireless Mouse,Accessories,14,942.18,13190.52,West,1437.96
+2025-04-04,Headphones,Accessories,38,2251.23,85546.74,South,5231.05
+2025-04-06,Headphones,Accessories,49,2124.24,104087.76,West,4057.47
+2025-04-09,Monitor,Electronics,21,14280.4,299888.4,West,2422.29
+2025-04-13,Monitor,Electronics,26,14410.68,374677.68,North,3565.76
+2025-04-09,Wireless Mouse,Accessories,17,949.1,16134.7,North,3530.91
+2025-04-06,Wireless Mouse,Accessories,32,863.49,27631.68,North,1436.57
+2025-05-02,Tablet,Electronics,37,18279.98,676359.26,East,2749.2
+2025-05-24,Wireless Mouse,Accessories,40,857.81,34312.4,Central,5802.47
+2025-05-24,Tablet,Electronics,36,18487.25,665541.0,South,3164.86
+2025-05-22,Tablet,Electronics,41,18443.27,756174.07,South,7370.8
+2025-05-26,Smartphone,Electronics,34,22934.2,779762.8,North,3967.86
+2025-05-22,Smartphone,Electronics,34,23522.43,799762.62,North,8196.14
+2025-06-16,Smartphone,Electronics,36,25385.76,913887.36,East,6128.63
+2025-06-08,Wireless Mouse,Accessories,32,936.29,29961.28,Central,8473.92
+2025-06-23,Monitor,Electronics,26,14631.82,380427.32,West,1166.48
+2025-06-01,Monitor,Electronics,37,13900.28,514310.36,West,8460.07
+2025-06-16,Keyboard,Accessories,45,1768.52,79583.4,North,3936.85
+2025-06-09,Keyboard,Accessories,34,1845.87,62759.58,East,2096.15
+2025-06-01,Laptop,Electronics,16,57746.44,923943.04,North,7606.13
+2025-06-09,Laptop,Electronics,40,58655.27,2346210.8,North,6032.03
+2025-06-02,Keyboard,Accessories,45,1817.94,81807.3,South,1145.53
+2025-06-17,Monitor,Electronics,39,14703.17,573423.63,Central,7369.75
+2025-07-19,Wireless Mouse,Accessories,41,882.02,36162.82,West,1163.31
+2025-07-02,Headphones,Accessories,29,2187.69,63443.01,South,6076.51
+2025-07-25,Laptop,Electronics,31,54467.2,1688483.2,East,6146.62
+2025-07-20,Wireless Mouse,Accessories,43,928.68,39933.24,South,5816.7
+2025-07-15,Monitor,Electronics,35,15367.48,537861.8,South,3563.27
+2025-07-04,Laptop,Electronics,33,56416.4,1861741.2,South,1463.49
+2025-07-01,Keyboard,Accessories,38,1734.79,65922.02,South,3045.24
+2025-07-13,Monitor,Electronics,23,13914.88,320042.24,West,8452.66
+2025-07-19,Headphones,Accessories,38,2198.99,83561.62,South,594.32
+2025-07-25,Laptop,Electronics,29,53266.0,1544714.0,Central,6617.32
+2025-07-20,Keyboard,Accessories,54,1890.54,102089.16,South,1679.01
+2025-08-11,Tablet,Electronics,26,19318.74,502287.24,Central,4324.74
+2025-08-14,Tablet,Electronics,32,18602.64,595284.48,North,3502.73
+2025-08-14,Keyboard,Accessories,49,1816.56,89011.44,North,6516.38
+2025-08-01,Smartphone,Electronics,15,22946.41,344196.15,Central,7095.86
+2025-08-08,Wireless Mouse,Accessories,41,853.93,35011.13,North,4621.81
+2025-08-08,Laptop,Electronics,9,59082.32,531740.88,East,4908.58
+2025-08-06,Wireless Mouse,Accessories,37,875.29,32385.73,West,2338.14
+2025-08-25,Laptop,Electronics,28,54776.71,1533747.88,Central,1680.09
+2025-08-15,Wireless Mouse,Accessories,22,953.63,20979.86,East,7409.08
+2025-08-17,Monitor,Electronics,24,14536.66,348879.84,South,7208.7
+2025-09-20,Tablet,Electronics,22,17976.13,395474.86,Central,1908.39
+2025-09-02,Monitor,Electronics,24,14498.76,347970.24,Central,7783.32
+2025-09-08,Monitor,Electronics,38,13633.02,518054.76,North,1787.44
+2025-09-15,Laptop,Electronics,31,52698.85,1633664.35,South,1194.33
+2025-09-16,Wireless Mouse,Accessories,43,933.82,40154.26,West,995.08
+2025-09-04,Keyboard,Accessories,31,1695.25,52552.75,West,971.03
+2025-09-17,Headphones,Accessories,30,2243.03,67290.9,East,7297.22
+2025-09-06,Wireless Mouse,Accessories,33,862.7,28469.1,Central,5789.36
+2025-09-11,Keyboard,Accessories,49,1793.13,87863.37,South,871.64
+2025-10-15,Keyboard,Accessories,49,1833.73,89852.77,South,3389.8
+2025-10-24,Laptop,Electronics,56,54589.7,3057023.2,East,6408.1
+2025-10-20,Keyboard,Accessories,36,1726.61,62157.96,East,2056.36
+2025-10-23,Monitor,Electronics,31,14459.2,448235.2,East,6695.65
+2025-10-25,Laptop,Electronics,34,57837.27,1966467.18,North,6158.5
+2025-10-01,Laptop,Electronics,24,59252.21,1422053.04,South,5797.58
+2025-10-24,Headphones,Accessories,37,2331.95,86282.15,South,1448.6
+2025-10-08,Tablet,Electronics,41,17928.48,735067.68,Central,5936.17
+2025-11-26,Wireless Mouse,Accessories,34,910.62,30961.08,South,2754.76
+2025-11-09,Tablet,Electronics,38,18665.6,709292.8,West,2549.61
+2025-11-02,Smartphone,Electronics,28,24679.86,691036.08,East,5373.2
+2025-11-27,Tablet,Electronics,43,18395.6,791010.8,East,6701.21
+2025-11-13,Smartphone,Electronics,14,24469.98,342579.72,Central,7079.34
+2025-11-08,Monitor,Electronics,47,15170.96,713035.12,Central,7370.28
+2025-11-15,Tablet,Electronics,34,19541.98,664427.32,North,2383.48
+2025-11-25,Laptop,Electronics,44,58790.88,2586798.72,Central,709.73
+2025-12-04,Wireless Mouse,Accessories,40,923.14,36925.6,West,1457.58
+2025-12-19,Smartphone,Electronics,27,24461.38,660457.26,West,8486.8
+2025-12-09,Keyboard,Accessories,48,1832.87,87977.76,North,5354.88
+2025-12-23,Headphones,Accessories,34,2281.9,77584.6,East,7312.52
+2025-12-03,Monitor,Electronics,34,14459.9,491636.6,Central,5366.82
+2025-12-22,Monitor,Electronics,42,14562.4,611620.8,North,1357.85
+2025-12-07,Smartphone,Electronics,40,22880.39,915215.6,North,5262.5
+2025-12-01,Wireless Mouse,Accessories,46,893.38,41095.48,West,1794.4
+2025-12-05,Headphones,Accessories,21,2078.06,43639.26,East,3998.27
